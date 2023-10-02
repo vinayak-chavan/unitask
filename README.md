@@ -1,6 +1,8 @@
 # unitask
 
 
+Tech stack used: NestJS, Typescript, Postgres, Typeorm
+
 Task 1:
 
 Move to folder task1 and hit the command node task1.js
